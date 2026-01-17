@@ -1,6 +1,6 @@
 # 🛡️ Sentinel-IP: Automated Threat Intel Triage
 
-**Sentinel-IP** is a containerized Python tool designed for SOC Analysts to automate the time-consuming process of IP reputation enrichment. By aggregating data from **AbuseIPDB** and **AlienVault OTX**, it provides a high-speed assessment of suspicious network indicators.
+**Sentinel-IP** is a containerised Python tool designed for SOC Analysts to automate the time-consuming process of IP reputation enrichment. By aggregating data from **AbuseIPDB** and **AlienVault OTX**, it provides a high-speed assessment of suspicious network indicators.
 
 ---
 
