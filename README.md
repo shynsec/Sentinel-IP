@@ -7,7 +7,7 @@
 ## 🚀 Key Features
 
 * **Fast Enrichment:** Utilizes high-performance APIs (AlienVault OTX) to bypass the strict rate limits found in traditional free-tier tools like VirusTotal.
-* **Dockerized Environment:** Zero-install setup. Fully containerized to run consistently on any OS without Python version conflicts.
+* **Dockerised Environment:** Zero-install setup. Fully containerised to run consistently on any OS without Python version conflicts.
 * **Real-Time Progress:** Visual tracking with `tqdm` integration, essential for monitoring bulk scans.
 * **Actionable Reporting:** Outputs a structured `.csv` report ready for management review or SIEM ingestion.
 
@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.11
-* **Containerization:** Docker
+* **Containerisation:** Docker
 * **APIs:** AbuseIPDB v2, AlienVault OTX
 * **Libraries:** Requests, TQDM, CSV
 
